@@ -31,3 +31,17 @@
 
 en:
   hello: "Hello world"
+  home_title: "Home"
+  about_title: "About"
+  help_title: "Help"
+  base_title: "Pr1801 E-commerce"
+  jumbotron: "Project 1"
+  team: "Team 3"
+  home: "Home"
+  categories: "Categories"
+  brands: "Brands"
+  contact: "Contact"
+  help: "Help"
+  copyright: "Copyright E-Commerce Team 3"
+  signup: "Sign Up"
+  submit: "Submit"
